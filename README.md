@@ -48,7 +48,7 @@ After the user presses the "Login" button on the homepage, the system navigates 
 
 * only the authorized users have access to the system
 * the right credentials are put in by the user
-* After a successful login, the user is then navigated to the systems dashboard page.
+* After a successful login, the user is then navigated to the systems user profile page.
 
 #### 4.2 Profile Page https://github.com/anidaduharkic/Inviguard-issues/issues/8#issue-2183857253
 
@@ -83,12 +83,47 @@ That page contains:
 * Order details, update or cancellation of it
 * Box to create a new order
 
-### 4.6 QR Code Scanning Page https://github.com/anidaduharkic/Inviguard-issues/issues/12#issue-2183983949
+#### 4.6 QR Code Scanning Page https://github.com/anidaduharkic/Inviguard-issues/issues/12#issue-2183983949
 
 It can also be navigated to from the navigation bar and this page contains:
 
 * Interface for scanning QR codes associated with products or orders.
 * Feedback on successful scans and errors.
+
+### 5. Technical Requirements https://github.com/anidaduharkic/Inviguard-issues/issues/11#issue-2183977619
+
+The Management Information System is built using the following technologies:
+
+Backend: Java, Spring, PostgreSQL
+Frontend: Angular
+
+### 6. Wireframes 
+
+#### 6.1 Home Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/b8b6caebf2089e72e0a034419f256d7fd09db4eb/Home%20page.png "HomePage")
+
+#### 6.2 Login Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/Log%20in%20Page%20.png "LoginPage")
+
+#### 6.3 Profile Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/Profile%20Page.png "ProfilePage")
+
+#### 6.4 Dashboard Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/Dashboard.png "DashboardPage")
+
+#### 6.5 Inventory Management Page
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/Inventory%20page.png "InventoryPage") 
+
+#### 6.6 Order Management Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/Orders%20page.png "OrderPage") 
+
+#### 6.7 QR Code Scanning Page 
+![alt text](https://github.com/anidaduharkic/Inviguard-issues/blob/72a6a22911822da81e56b6472cddb6a1d0ecc895/QR%20page.png "QrCodePage")
+
+
+
+
+
 
 
 
