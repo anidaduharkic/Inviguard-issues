@@ -34,6 +34,67 @@ Inviguard includes the following pages:
 
 ### 4. Functionality 
 
+#### 4. Home Page https://github.com/anidaduharkic/Inviguard-issues/issues/9#issue-2183861414
+
+This is the landing page of this application.
+It contains:
+
+* The Company name along with the short description of it
+* The 'Login' button that will lead to the User log in page
+
+#### 4.1 Log in Page https://github.com/anidaduharkic/Inviguard-issues/issues/3#issue-2183715000
+
+After the user presses the "Login" button on the homepage, the system navigates the user to the Login form of the page. This page must ensure that:
+
+* only the authorized users have access to the system
+* the right credentials are put in by the user
+* After a successful login, the user is then navigated to the systems dashboard page.
+
+#### 4.2 Profile Page https://github.com/anidaduharkic/Inviguard-issues/issues/8#issue-2183857253
+
+After the log in page a user will be redirected to its profile. 
+Profile page contains: 
+
+* The profile picture of the user
+* The information about the user
+* Log out button 
+* On the side the user can navigate to the other pages
+
+#### 4.3 Dashboard page https://github.com/anidaduharkic/Inviguard-issues/issues/4#issue-2183730572
+
+The user can navigate to the dashboard page from the navigation menu. The dashboard page is the main page of the system where the main and most important information is presented for example:
+
+* incoming orders
+* orders for materials submitted by employees
+* materials low in stock
+* This information is beneficial for the users as it helps them in their decision-making process.
+
+#### 4.4 Inventory Management Page https://github.com/anidaduharkic/Inviguard-issues/issues/5#issue-2183744459
+
+In order to aquire the right information on the warehouse and the materials stored in it, the user navigates to the inventory page where the materials are listed in different categories along with the acording price, quantity and supplier. Also, the materials are provided with a code, name, description, picture and place where it is stored. The inventory page will also give the user the ability to enter new products to be stored and also update or delete existing ones.
+
+#### 4.5 Order Management Page https://github.com/anidaduharkic/Inviguard-issues/issues/10#issue-2183882523
+
+On the navigation bar the user can navigate ti the Order Management Page.
+That page contains:
+
+* Option to search for the orders
+* List of the orders and its status
+* Order details, update or cancellation of it
+* Box to create a new order
+
+### 4.6 QR Code Scanning Page https://github.com/anidaduharkic/Inviguard-issues/issues/12#issue-2183983949
+
+It can also be navigated to from the navigation bar and this page contains:
+
+* Interface for scanning QR codes associated with products or orders.
+* Feedback on successful scans and errors.
+
+
+
+
+
+
 
 
 
