@@ -1,4 +1,4 @@
-# Inviguard-issues
+# Inviguard
 
 ### 1. Introduction https://github.com/anidaduharkic/Inviguard-issues/issues/2#issue-2183680634
 
