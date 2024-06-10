@@ -11,7 +11,7 @@ The centralised Dashboard provides users with a comprehensive overview of wareho
 
 The features that Inviguard contains are:
 
-* User Authentication for Employee/Employer
+* User Authentication
 * Profile of the User
 * Inventory Management Interface (for suppliers add, update, delete cruds)
 * Order Management Interface (creating the Order, accepting and processing it)
@@ -23,7 +23,7 @@ The features that Inviguard contains are:
 Inviguard includes the following pages:
 
 * Home Page of the Company
-* Registration Page for the authorised users
+* Registration Page
 * Profile Page
 * Dashboard Page
 * Inventory Management Page
@@ -46,7 +46,6 @@ It contains:
 
 After the user presses the "Login" button on the homepage, the system navigates the user to the Login form of the page. This page must ensure that:
 
-* only the authorized users have access to the system
 * the right credentials are put in by the user
 * After a successful login, the user is then navigated to the systems user profile page.
 
@@ -55,7 +54,6 @@ After the user presses the "Login" button on the homepage, the system navigates 
 After the log in page a user will be redirected to its profile. 
 Profile page contains: 
 
-* The profile picture of the user
 * The information about the user
 * Log out button 
 * On the side the user can navigate to the other pages
@@ -71,7 +69,7 @@ The user can navigate to the dashboard page from the navigation menu. The dashbo
 
 #### 4.4 Inventory Management Page https://github.com/anidaduharkic/Inviguard-issues/issues/5#issue-2183744459
 
-In order to aquire the right information on the warehouse and the materials stored in it, the user navigates to the inventory page where the materials are listed in different categories along with the acording price, quantity and supplier. Also, the materials are provided with a code, name, description, picture and place where it is stored. The inventory page will also give the user the ability to enter new products to be stored and also update or delete existing ones.
+In order to aquire the right information on the warehouse and the materials stored in it, the user navigates to the inventory page where the materials are according to its id, name and quantity. The inventory page will also give the user the ability to enter new products to be stored and also update or delete existing ones.
 
 #### 4.5 Order Management Page https://github.com/anidaduharkic/Inviguard-issues/issues/10#issue-2183882523
 
@@ -79,7 +77,7 @@ On the navigation bar the user can navigate ti the Order Management Page.
 That page contains:
 
 * Option to search for the orders
-* List of the orders and its status
+* List of the orders
 * Order details, update or cancellation of it
 * Box to create a new order
 
